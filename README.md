@@ -44,21 +44,19 @@
 
 ### 📊 GitHub Statistics (Animated Dashboard)
 <div align="center">
-  <!-- Dynamic Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkantesh-95&layout=compact&theme=vision-pro&hide_border=true" alt="Top Languages" />
+  <!-- Dynamic Top Languages Card (Using Fast Mirror) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=venkantesh-95&layout=compact&theme=vision-pro&hide_border=true" alt="Top Languages" />
   
   <br><br>
   
-  <!-- Dynamic Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=venkantesh-95&show_icons=true&theme=vision-pro&hide_border=true" alt="GitHub Stats" />
+  <!-- Dynamic Stats Card (Using Fast Mirror) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=venkantesh-95&show_icons=true&theme=vision-pro&hide_border=true" alt="GitHub Stats" />
   
   <br><br>
   
-  <!-- Animated Git Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkantesh-95&theme=vision-pro&hide_border=true" alt="GitHub Streak" />
+  <!-- Animated Git Streak Card (Updated Stable Server) -->
+  <img src="https://streak-stats.demolab.com/?user=venkantesh-95&theme=vision-pro&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
 
 ### 🤝 Connect With Me
 <div align="center">
